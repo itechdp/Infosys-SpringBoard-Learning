@@ -1,0 +1,101 @@
+CLIENTNUM,Attrition_Flag,Customer_Age,Gender,Dependent_count,Education_Level,Income_Category,Credit_Limit,Total_Revolving_Bal,Avg_Purchase,Total_Trans_Amt
+768805383,Existing Customer,45,M,3,High School,$60K - $80K,12691,777,11914,1144
+818770008,Existing Customer,49,F,5,Graduate,Less than $40K,8256,864,7392,1291
+713982108,Existing Customer,51,M,3,Graduate,$80K - $120K,3418,0,3418,1887
+769911858,Existing Customer,40,F,4,High School,Less than $40K,3313,2517,796,1171
+709106358,Existing Customer,40,M,3,Uneducated,$60K - $80K,4716,0,4716,816
+713061558,Existing Customer,44,M,2,Graduate,$40K - $60K,4010,1247,2763,1088
+810347208,Existing Customer,51,M,4,Unknown,$120K +,34516,2264,32252,1330
+818906208,Existing Customer,32,M,0,High School,$60K - $80K,29081,1396,27685,1538
+710930508,Existing Customer,37,M,3,Uneducated,$60K - $80K,22352,2517,19835,1350
+719661558,Existing Customer,48,M,2,Graduate,$80K - $120K,11656,1677,9979,1441
+708790833,Existing Customer,42,M,5,Uneducated,$120K +,6748,1467,5281,1201
+710821833,Existing Customer,65,M,1,Unknown,$40K - $60K,9095,1587,7508,1314
+710599683,Existing Customer,56,M,1,College,$80K - $120K,11751,0,11751,1539
+816082233,Existing Customer,35,M,3,Graduate,$60K - $80K,8547,1666,6881,1311
+712396908,Existing Customer,57,F,2,Graduate,Less than $40K,2436,680,1756,1570
+714885258,Existing Customer,44,M,4,Unknown,$80K - $120K,4234,972,3262,1348
+709967358,Existing Customer,48,M,4,Post-Graduate,$80K - $120K,30367,2362,28005,1671
+753327333,Existing Customer,41,M,3,Unknown,$80K - $120K,13535,1291,12244,1028
+806160108,Existing Customer,61,M,1,High School,$40K - $60K,3193,2517,676,1336
+709327383,Existing Customer,45,F,2,Graduate,Unknown,14470,1157,13313,1207
+806165208,Existing Customer,47,M,1,Doctorate,$60K - $80K,20979,1800,19179,1178
+708508758,Attrited Customer,62,F,0,Graduate,Less than $40K,1438.3,0,1438.3,692
+784725333,Existing Customer,41,M,3,High School,$40K - $60K,4470,680,3790,931
+811604133,Existing Customer,47,F,4,Unknown,Less than $40K,2492,1560,932,1126
+789124683,Existing Customer,54,M,2,Unknown,$80K - $120K,12217,0,12217,1110
+771071958,Existing Customer,41,F,3,Graduate,Less than $40K,7768,1669,6099,1051
+720466383,Existing Customer,59,M,1,High School,$40K - $60K,14784,1374,13410,1197
+804424383,Existing Customer,63,M,1,Unknown,$60K - $80K,10215,1010,9205,1904
+718813833,Existing Customer,44,F,3,Uneducated,Unknown,10100,0,10100,1052
+806624208,Existing Customer,47,M,4,High School,$40K - $60K,4785,1362,3423,1045
+778348233,Existing Customer,53,M,3,Unknown,$80K - $120K,2753,1811,942,1038
+712991808,Existing Customer,53,M,2,Uneducated,$60K - $80K,2451,1690,761,1596
+709029408,Existing Customer,41,M,4,Graduate,$60K - $80K,8923,2517,6406,1589
+788658483,Existing Customer,53,F,2,College,Less than $40K,2650,1490,1160,1411
+787937058,Existing Customer,58,M,0,Graduate,$80K - $120K,12555,1696,10859,1291
+715318008,Existing Customer,55,F,1,College,Less than $40K,3520,1914,1606,1407
+713962233,Existing Customer,55,F,3,Graduate,Less than $40K,3035,2298,737,1877
+785432733,Existing Customer,42,F,4,High School,Less than $40K,15433,0,15433,966
+715190283,Existing Customer,57,F,1,Graduate,$40K - $60K,3672,886,2786,1464
+708300483,Attrited Customer,66,F,0,Doctorate,Unknown,7882,605,7277,704
+827111283,Existing Customer,45,M,3,Graduate,$80K - $120K,32426,578,31848,1109
+758551608,Existing Customer,51,M,2,Unknown,$40K - $60K,6205,2204,4001,1347
+773146383,Existing Customer,50,F,1,College,$40K - $60K,17304,2517,14787,1756
+778493808,Existing Customer,49,M,3,High School,$60K - $80K,3906,0,3906,1756
+720572508,Existing Customer,38,F,4,Graduate,Unknown,9830,2055,7775,1042
+712661433,Existing Customer,49,M,4,Uneducated,$80K - $120K,34516,0,34516,1444
+789172683,Existing Customer,56,M,2,Doctorate,$60K - $80K,2283,1430,853,1741
+738406533,Existing Customer,59,M,1,Doctorate,$40K - $60K,2548,2020,528,1719
+799723908,Existing Customer,46,M,3,High School,$80K - $120K,19458,1435,18023,1217
+771490833,Existing Customer,52,M,1,College,$80K - $120K,4745,1227,3518,1140
+720756708,Existing Customer,52,F,3,Unknown,Less than $40K,2622,1549,1073,1878
+779471883,Attrited Customer,54,F,1,Graduate,Less than $40K,1438.3,808,630.3,705
+711525033,Existing Customer,66,F,0,High School,Less than $40K,3171,2179,992,1946
+712813458,Existing Customer,49,M,2,Unknown,$120K +,19763,2517,17246,1414
+714374133,Attrited Customer,56,M,2,Graduate,$120K +,15769,0,15769,602
+717891558,Existing Customer,49,F,4,Graduate,Less than $40K,3298,2200,1098,1052
+716632758,Existing Customer,49,F,3,Graduate,Less than $40K,2802,2363,439,1295
+768563658,Existing Customer,56,M,2,Uneducated,$40K - $60K,4458,1880,2578,1424
+711427458,Existing Customer,44,F,5,Graduate,Unknown,6273,978,5295,1359
+714091983,Existing Customer,42,M,2,High School,$60K - $80K,3336,1753,1583,1168
+787584108,Existing Customer,55,M,3,Unknown,$80K - $120K,3436,2016,1420,1097
+712030833,Attrited Customer,48,M,2,Graduate,$60K - $80K,34516,0,34516,691
+711481533,Existing Customer,39,M,1,High School,$60K - $80K,5926,1251,4675,1316
+710082708,Existing Customer,44,M,4,Post-Graduate,$120K +,23957,2102,21855,1276
+708155733,Existing Customer,53,M,2,High School,$120K +,14734,1634,13100,1289
+788979258,Existing Customer,51,M,4,Uneducated,$80K - $120K,34516,1515,33001,1293
+807986133,Existing Customer,57,M,2,College,$60K - $80K,6584,1817,4767,1353
+788730933,Existing Customer,44,F,2,Uneducated,Less than $40K,2084,1468,616,1132
+711314058,Existing Customer,49,M,2,Graduate,$60K - $80K,1687,1107,580,1670
+717975333,Existing Customer,50,M,2,Doctorate,$80K - $120K,25300,1330,23970,837
+715971108,Existing Customer,51,M,4,Graduate,$120K +,34516,1763,32753,1550
+720096558,Existing Customer,55,F,2,Graduate,Less than $40K,2216,1034,1182,1540
+719580033,Existing Customer,54,M,1,Graduate,$60K - $80K,2910,2030,880,1256
+820582308,Existing Customer,42,M,5,Uneducated,$80K - $120K,22913,1528,21385,1394
+789973308,Existing Customer,44,M,1,College,$60K - $80K,24312,1932,22380,1341
+712876233,Existing Customer,53,M,2,Graduate,$80K - $120K,5272,1515,3757,1289
+804595158,Existing Customer,44,F,4,Graduate,Less than $40K,7000,2517,4483,1112
+714826758,Existing Customer,37,F,3,Uneducated,Less than $40K,7038,1801,5237,2339
+779058108,Existing Customer,49,M,3,Graduate,$60K - $80K,2536,1823,713,1468
+710790258,Existing Customer,47,M,2,Graduate,$80K - $120K,28904,1899,27005,1334
+715623483,Existing Customer,47,M,3,Graduate,$60K - $80K,8567,1695,6872,1457
+715156383,Existing Customer,44,M,1,Unknown,$120K +,34516,1533,32983,1603
+711013983,Attrited Customer,55,F,4,Unknown,$40K - $60K,2158,0,2158,615
+755420433,Existing Customer,59,F,1,Graduate,Unknown,10133,1417,8716,1068
+794543958,Existing Customer,53,M,1,Graduate,$80K - $120K,34516,1219,33297,1590
+716396358,Existing Customer,52,M,2,Graduate,$60K - $80K,3085,1910,1175,1531
+715398033,Existing Customer,53,M,2,High School,$120K +,19040,2056,16984,1212
+711743883,Existing Customer,43,F,3,Uneducated,Less than $40K,4026,0,4026,1237
+719720058,Existing Customer,44,M,3,High School,$60K - $80K,12756,837,11919,1413
+778992108,Existing Customer,57,M,2,Unknown,$120K +,5266,0,5266,1516
+717539808,Existing Customer,51,F,2,High School,Less than $40K,9930,0,9930,1276
+714070758,Existing Customer,49,M,4,High School,$80K - $120K,31302,1953,29349,1564
+714107958,Existing Customer,45,M,1,Graduate,$40K - $60K,6576,0,6576,1465
+789140283,Existing Customer,53,M,0,Graduate,$80K - $120K,2664,2037,627,1286
+715550508,Existing Customer,45,F,3,Unknown,Unknown,2535,2440,95,1312
+719712633,Existing Customer,64,M,1,Graduate,Less than $40K,1709,895,814,1673
+772629333,Existing Customer,45,M,3,Graduate,$40K - $60K,3454,1200,2254,1313
+720336708,Existing Customer,53,M,3,Doctorate,$40K - $60K,3789,1706,2083,1609
+802013583,Existing Customer,56,M,3,College,$120K +,9689,2250,7439,1158
+711887583,Attrited Customer,47,M,2,Unknown,$80K - $120K,5449,1628,3821,836
